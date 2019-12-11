@@ -1,4 +1,5 @@
 [![pipeline status](https://gitlab.com/vvanholl/elasticsearch-prometheus-exporter/badges/master/pipeline.svg)](https://gitlab.com/vvanholl/elasticsearch-prometheus-exporter/commits/master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Felasticsearch-prometheus-exporter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunilchadha1973%2Felasticsearch-prometheus-exporter?ref=badge_shield)
 
 # Prometheus Exporter Plugin for Elasticsearch
 
@@ -273,3 +274,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Felasticsearch-prometheus-exporter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunilchadha1973%2Felasticsearch-prometheus-exporter?ref=badge_large)
